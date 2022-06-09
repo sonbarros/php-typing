@@ -1,0 +1,8 @@
+{
+    "name" : "sonbarros/start",
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app"
+        }
+    }
+}
