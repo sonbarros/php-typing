@@ -1,0 +1,13 @@
+{
+    "name": "anderson/composer-01",
+    "authors": [
+        {
+            "name": "Anderson de S Barros",
+            "email": "anderson21br@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "nesbot/carbon": "^2.58"
+    }
+}
